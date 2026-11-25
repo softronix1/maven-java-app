@@ -169,7 +169,18 @@
       <a href="#" class="btn">Enroll Now</a>
     </div>
 
+<!-- my changes -->
 
+<div class="course-card">
+      <div class="course-icon"><i class="fas fa-robot"></i></div>
+      <div class="course-title">Forword Deploy Engineering</div>
+      <div class="course-desc">
+        Become industry-ready with real-time data projects.
+      </div>
+      <a href="#" class="btn">Enroll Now</a>
+    </div>
+
+<!--  -->
   </div>
 
 </body>
